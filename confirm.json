@@ -1,0 +1,19 @@
+{
+    "status": "successful", 
+    "data": 
+    {
+        "name": "DESK_WIN_CHROME_666", 
+        "uuid": "6728ac32-faa1-4dc5-8049-c3316ea38669", 
+        "pipline": 7502
+    }
+}
+
+{
+    "status": "successful",
+    "data":
+    {
+      "name": "test_1",
+      "id": "f8091eed-4ae6-4c0e-8c30-b452ddd10910",
+      "pipeline": 7501
+    }
+  }
